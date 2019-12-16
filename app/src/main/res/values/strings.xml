@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">eCommerce</string>
+    <string name="app_slogan">Find, Discover, Choose and Buy anything online.</string>
+    <string name="main_login_btn_st">Already have an Account? Login</string>
+    <string name="main_join_now_btn_st">Join Now</string>
+    <string name="remember_me_chkb_st">Remember me</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="login">Login</string>
+    <string name="register">Create Account</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "883924978462",
+    "firebase_url": "https://ecommerce-fc925.firebaseio.com",
+    "project_id": "ecommerce-fc925",
+    "storage_bucket": "ecommerce-fc925.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883924978462:android:e83c262641bb3e5bd9570f",
+        "android_client_info": {
+          "package_name": "com.goldcode.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883924978462-1es4gtpr9n8duij9jk234ol7kcl7g74l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.goldcode.ecommerce",
+            "certificate_hash": "c9d9330013668526aa195be95fffe7a11e2acf16"
+          }
+        },
+        {
+          "client_id": "883924978462-346dmr5v6he5jpbessd650hpuikotm39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkliwdXP9UHMniAPYHFlSxyX2VZ6D2kFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883924978462-346dmr5v6he5jpbessd650hpuikotm39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

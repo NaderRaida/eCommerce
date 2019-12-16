@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="12dp"
+    android:background="@color/colorPrimaryDark"
+    app:cardElevation="20dp">
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recycler_product_name"
+        android:text="Product name"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20sp"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_below="@id/recycler_product_name"
+        android:scaleType="centerCrop"
+        android:layout_marginTop="2dp"
+        android:id="@+id/recycler_product_image"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recycler_product_price"
+        android:text="Product price"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textColor="@color/colorPrimary"
+        android:textSize="15sp"
+        android:layout_marginTop="4dp"
+        android:layout_below="@id/recycler_product_image"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recycler_product_description"
+        android:text="Product description"
+        android:textAlignment="center"
+        android:gravity="center"
+        android:textColor="@color/colorPrimary"
+        android:textSize="15sp"
+        android:layout_marginTop="4dp"
+        android:layout_below="@id/recycler_product_price"
+        />
+
+</RelativeLayout>
+</androidx.cardview.widget.CardView>
